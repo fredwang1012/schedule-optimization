@@ -1,0 +1,15 @@
+.mypy_cache/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+credentials.yml
+.vscode/
+
+# Data files - excluded from GitHub
+data files/

@@ -1,0 +1,12 @@
+# Travel-Optimized Cleaning Scheduler Dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=1.5.0
+numpy>=1.24.0
+geopy>=2.3.0
+routingpy>=1.3.0
+python-dateutil>=2.8.0
+ortools>=9.0.0
+
+# Optional: For better performance with large datasets
+# openpyxl>=3.0.0  # For Excel file support if needed
